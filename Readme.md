@@ -20,7 +20,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-![image]()
+![image](https://github.com/arpitya/simplecalculator.github.io/blob/6cd0d371a8aeac4e855465491efa69e8256106ab/Screenshot%202023-05-26%20145739.png)
 
 ## Customization
 
